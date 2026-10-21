@@ -1,0 +1,10 @@
+.env
+.venv/
+__pycache__/
+.cache/
+*.pyc
+.pytest_cache/
+.DS_Store
+core/project_data/learned_projects.json
+core/project_data/recommender_feedback.jsonl
+data/swap_store.json

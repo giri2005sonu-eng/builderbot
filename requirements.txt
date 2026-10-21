@@ -1,0 +1,14 @@
+# Compatible-release pins: the minor versions this project was tested with. Patch updates are allowed, breaking changes are not.
+fastapi~=0.115
+uvicorn~=0.34
+httpx~=0.28
+python-multipart~=0.0.20
+sse-starlette~=2.2
+tinyfish~=0.9
+google-genai~=2.31
+python-dotenv~=1.2
+pytest~=9.1
+reportlab~=4.4
+pypdf~=5.9
+python-docx~=1.2
+playwright~=1.56   # only used to drive TinyFish's cloud browser; no local browser download is needed
